@@ -1,0 +1,12 @@
+﻿  Actor.cpp
+C:\study\C++\study\24.05.28\C240528\Actor.cpp(43,4): warning C4091: '': ignored on left of 'FPlayer' when no variable is declared
+  Black_Jk_00.cpp
+  Card.cpp
+C:\study\C++\study\24.05.28\C240528\Card.h(4,20): error C2504: 'FDeck': base class undefined
+  Dealer.cpp
+C:\study\C++\study\24.05.28\C240528\Dealer.h(2,24): error C2504: 'FActor': base class undefined
+  Deck.cpp
+C:\study\C++\study\24.05.28\C240528\Deck.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+C:\study\C++\study\24.05.28\C240528\Player.h(2,24): error C2504: 'FActor': base class undefined
+  Generating Code...

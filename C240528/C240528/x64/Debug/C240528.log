@@ -1,0 +1,24 @@
+﻿  Actor.cpp
+C:\study\C++\study\24.05.28\C240528\Actor.cpp(59,11): error C2059: syntax error: ';'
+  Card.cpp
+C:\study\C++\study\24.05.28\C240528\Card.h(3,20): error C2504: 'FDeck': base class undefined
+C:\study\C++\study\24.05.28\C240528\Card.h(16,7): error C2039: 'string': is not a member of 'std'
+C:\study\C++\study\24.05.28\C240528\Card.h(16,14): error C3646: 'Shape': unknown override specifier
+C:\study\C++\study\24.05.28\C240528\Card.h(16,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\study\C++\study\24.05.28\C240528\Card.cpp(24,13): error C2039: 'Shape': is not a member of 'FCard'
+C:\study\C++\study\24.05.28\C240528\Card.cpp(32,2): error C2065: 'ThumpCard': undeclared identifier
+C:\study\C++\study\24.05.28\C240528\Card.cpp(49,1): error C2143: syntax error: missing ';' before '}'
+  Dealer.cpp
+C:\study\C++\study\24.05.28\C240528\Dealer.h(2,24): error C2504: 'FActor': base class undefined
+  Deck.cpp
+C:\study\C++\study\24.05.28\C240528\Card.h(16,7): error C2039: 'string': is not a member of 'std'
+C:\study\C++\study\24.05.28\C240528\Card.h(16,14): error C3646: 'Shape': unknown override specifier
+C:\study\C++\study\24.05.28\C240528\Card.h(16,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\study\C++\study\24.05.28\C240528\Deck.cpp(29,12): error C2039: 'Shape': is not a member of 'FCard'
+C:\study\C++\study\24.05.28\C240528\Deck.cpp(33,12): error C2039: 'Shape': is not a member of 'FCard'
+C:\study\C++\study\24.05.28\C240528\Deck.cpp(37,12): error C2039: 'Shape': is not a member of 'FCard'
+C:\study\C++\study\24.05.28\C240528\Deck.cpp(41,12): error C2039: 'Shape': is not a member of 'FCard'
+C:\study\C++\study\24.05.28\C240528\Deck.cpp(64,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+C:\study\C++\study\24.05.28\C240528\Player.h(3,24): error C2504: 'FActor': base class undefined
+  Generating Code...
